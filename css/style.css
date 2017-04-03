@@ -1,0 +1,207 @@
+	.tank-container{
+			height:300px;
+			width: 200px;
+			border: 1px solid #000;
+			border-radius: 0px 0px 0px 0px;
+			border-top: 0px;
+			position: relative;
+			overflow: hidden;
+			display: inline-block;
+		}
+		#tank{
+			margin-left: 320px;
+		}
+		.water-container{
+			height: 280px;
+		    width: 100%;
+		    position: absolute;
+		    bottom: 0px;
+		    background-color: #FF0000;
+		}
+		.water-container4{
+			display: none;
+			height: 5px;
+		    width: 100%;
+		    position: absolute;
+		    bottom: 0px;
+		    background-color: #FF0000;
+		}
+		.water-container4.active{
+			display: inline-block;
+		}
+		
+		.tap-container{
+			display: inline-block;
+			position: relative;
+		}
+		.pipe{
+			height: 10px;
+		    width: 12px;
+		    background: #a75d5d;
+		    color: black;
+		    left: -4px;
+		    position: absolute;
+		    bottom: 0px;
+		}
+		.pipe-opener{
+		    height: 30px;
+		    bottom: -14px;
+		    width: 10px;
+		    position: absolute;
+		    background: #984a4a;
+		    left: 8px;
+		}
+		.tap{
+			height: 10px;
+		    width: 25px;
+		    position: absolute;
+		    background: #f00;
+		    left: 3px;
+		    bottom: 16px;
+		}
+		.tap.active{
+			background: #0f0;
+		}
+		.water-flow{
+			display: none;
+			height: 243px;
+		    width: 10px;
+		    position: absolute;
+		    background:red;
+		    left: 8px;
+		    top: 12px;
+		}
+		.water-flow.active{
+			display: inline-block;
+		}
+
+
+
+
+		
+		#tank1{
+			margin-left: 30px;
+		}
+		.water-container1{
+			height: 280px;
+		    width: 100%;
+		    position: absolute;
+		    bottom: 0px;
+		    background-color: #00FF00;
+		}
+		.tap-container1{
+			display: inline-block;
+			position: relative;
+		}
+		.pipe1{
+			height: 10px;
+		    width: 12px;
+		    background: #a75d5d;
+		    color: black;
+		    left: -4px;
+		    position: absolute;
+		    bottom: 0px;
+		}
+		.pipe-opener1{
+		    height: 30px;
+		    bottom: -14px;
+		    width: 10px;
+		    position: absolute;
+		    background: #984a4a;
+		    left: 8px;
+		}
+		.tap1{
+			height: 10px;
+		    width: 25px;
+		    position: absolute;
+		    background: #f00;
+		    left: 3px;
+		    bottom: 16px;
+		}
+		.tap1.active{
+			background: #0f0;
+		}
+		.water-flow1{
+			display: none;
+			height: 243px;
+		    width: 10px;
+		    position: absolute;
+		    background:#00FF00;
+		    left: 8px;
+		    top: 12px;
+		}
+		.water-flow1.active{
+			display: inline-block;
+		}
+
+
+
+#tank2{
+			margin-left: 30px;
+		}
+		.water-container2{
+			height: 280px;
+		    width: 100%;
+		    position: absolute;
+		    bottom: 0px;
+		    background-color: #0000FF;
+		}
+		.tap-container2{
+			display: inline-block;
+			position: relative;
+		}
+		.pipe2{
+			height: 10px;
+		    width: 12px;
+		    background: #a75d5d;
+		    color: black;
+		    left: -4px;
+		    position: absolute;
+		    bottom: 0px;
+		}
+		.pipe-opener2{
+		    height: 30px;
+		    bottom: -14px;
+		    width: 10px;
+		    position: absolute;
+		    background: #984a4a;
+		    left: 8px;
+		}
+		.tap2{
+			height: 10px;
+		    width: 25px;
+		    position: absolute;
+		    background: #f00;
+		    left: 3px;
+		    bottom: 16px;
+		}
+		.tap2.active{
+			background: #0f0;
+		}
+		.water-flow2{
+			display: none;
+			height: 243px;
+		    width: 10px;
+		    position: absolute;
+		    background:#0000FF;
+		    left: 8px;
+		    top: 12px;
+		}
+		.water-flow2.active{
+			display: inline-block;
+		}
+
+
+
+.storage{
+	height:200px;
+			width: 850px;
+			border: 1px solid #000;
+			margin-left: 250px;
+			margin-top: 50px;
+			border-radius: 0px 0px 10px 10px;
+			border-top: 0px;
+			position: relative;
+			overflow: hidden;
+			display: inline-block;
+}
